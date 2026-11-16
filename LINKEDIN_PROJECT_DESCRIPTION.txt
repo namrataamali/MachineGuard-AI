@@ -1,0 +1,15 @@
+MachineGuard AI | Predictive Maintenance & Smart Recommendations
+
+Built a machine-learning-powered Streamlit application to assess industrial equipment failure risk using operating conditions such as temperature, rotational speed, torque, and tool wear.
+
+Key features:
+- Random Forest-based machine failure risk scoring
+- Low, medium, and high risk assessment
+- Rule-based maintenance inspection recommendations
+- Bulk CSV assessment and downloadable results
+- Interactive industrial monitoring dashboard
+
+Tech stack: Python, Scikit-learn, Pandas, Streamlit, Plotly
+Dataset: UCI AI4I 2020 Predictive Maintenance (synthetic)
+
+Note: A portfolio demonstration, not a validated industrial safety system.
